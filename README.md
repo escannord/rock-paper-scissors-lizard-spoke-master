@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [on Github](https://github.com/escannord/rock-paper-scissors-lizard-spoke-master/)
+- Live Site URL: [Live preview](https://rock-paper-scissors-lizard-spoke-master.vercel.app/)
 
 ## My process
 
